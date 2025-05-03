@@ -1,0 +1,14 @@
+.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.enabled {
+  background-color: #007bff;
+  cursor: pointer;
+}
+
+.error {
+  background-color: #dc3545;
+  cursor: not-allowed;
+}
